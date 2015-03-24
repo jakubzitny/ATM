@@ -8,3 +8,6 @@ Source janko
 RMSprop http://arxiv.org/pdf/1308.0850v5.pdf - page 23
 
 New implementation is HIGHly inspired by Jan Tkacik (https://github.com/JanTkacik/NTM).
+
+
+PS: jankov repozitar ma tak malo followerov, ze ani nemam komu poslat odkaz na ATM ze by sa zasmial.. <- to bol najdlhsi nesmiesny vtip
