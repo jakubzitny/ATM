@@ -11,3 +11,4 @@ New implementation is HIGHly inspired by Jan Tkacik (https://github.com/JanTkaci
 
 
 PS: jankov repozitar ma tak malo followerov, ze ani nemam komu poslat odkaz na ATM ze by sa zasmial.. <- to bol najdlhsi nesmiesny vtip
+PPS: gandžiskhan
